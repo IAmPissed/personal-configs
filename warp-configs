@@ -10,5 +10,5 @@ warp://auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Test2
 warp://188.114.96.148:4500?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Test3
 warp://188.114.97.160:5956?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Test4
 
-warp://188.114.96.8:5956?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto#WarpInWarp1
-warp://188.114.96.202:5956?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto#WarpInWarp2
+warp://p1@188.114.96.8:5956?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto#WarpInWarp1
+warp://p2@188.114.96.202:5956?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto#WarpInWarp2
